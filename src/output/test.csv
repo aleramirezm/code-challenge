@@ -1,0 +1,8 @@
+,purchase_id,product_id,product_name,product_price,price_info,product_category,quantity,client_id,client_email,payment_method,purchased_data
+0,123455,123543,smartwatch,5500,MXN,smart device,1,12345,email_1@provider.com,credit card,2023-01-02
+1,126435,325563,LV Laptop,20500,MXN,laptops & computers,1,12335,email_2@provider.com,paypal,2023-01-02
+2,223755,326573,Computer,25500,MXN,laptops & computers,1,42335,email_3@provider.com,debit card,2023-01-02
+3,922436,346873,XPhone,12500,MXN,smartphone,1,42637,email_4@provider.com,credit card,2023-01-02
+4,225468,566972,XPhone Pro,17500,MXN,smartphone,1,26739,email_5@provider.com,paypal,2023-01-02
+5,428458,346873,XPhone,12500,MXN,smartphone,1,21499,email_6@provider.com,credit card,2023-01-02
+6,233596,464592,Book Pro,17500,MXN,laptops & computers,1,23569,email_7@provider.com,debit card,2023-01-02

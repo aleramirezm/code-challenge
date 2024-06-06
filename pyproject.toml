@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "code-challenge"
+version = "0.1.0"
+description = "Code challange for HCLTech"
+authors = ["Alejandra Ramirez <alerammoo@gmail.com>"]
+readme = "README.md"
+packages = [{include = "code_challenge"}]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+sqlalchemy = "1.4.52"
+structlog = "^24.2.0"
+python-dotenv = "^1.0.1"
+pymysql = "^1.1.1"
+ipykernel = "^6.29.4"
+pandas = "1.4.4"
+apache-airflow = "^2.0.0" 
+docutils = "0.20.1"
+requests = "^2.32.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

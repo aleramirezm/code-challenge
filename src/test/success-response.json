@@ -1,0 +1,111 @@
+{
+    "message":"success",
+    "data" : [
+        {
+        "id":"123455",
+        "product_id":"123543",
+        "product_name":"smartwatch",
+        "product_price":"5500",
+        "price_info":"MXN",
+        "product_category":"smart device",
+        "quantity":"1",
+        "client_info":{
+            "client_id" : "12345",
+            "client_email":"email_1@provider.com",
+            "payment_method":"credit card",
+            "purchased_date":"2023-01-02"
+        }
+        },
+        {
+            "id":"126435",
+            "product_id":"325563",
+            "product_name":"LV Laptop",
+            "product_price":"20500",
+            "price_info":"MXN",
+            "product_category":"laptops & computers",
+            "quantity":"1",
+            "client_info":{
+                "client_id" : "12335",
+                "client_email":"email_2@provider.com",
+                "payment_method":"paypal",
+                "purchased_date":"2023-01-02"
+            }
+        },
+        {
+            "id":"223755",
+            "product_id":"326573",
+            "product_name":"Computer",
+            "product_price":"25500",
+            "price_info":"MXN",
+            "product_category":"laptops & computers",
+            "quantity":"1",
+            "client_info":{
+                "client_id" : "42335",
+                "client_email":"email_3@provider.com",
+                "payment_method":"debit card",
+                "purchased_date":"2023-01-02"
+            }
+        },
+        {
+            "id":"922436",
+            "product_id":"346873",
+            "product_name":"XPhone",
+            "product_price":"12500",
+            "price_info":"MXN",
+            "product_category":"smartphone",
+            "quantity":"1",
+            "client_info":{
+                "client_id" : "42637",
+                "client_email":"email_4@provider.com",
+                "payment_method":"credit card",
+                "purchased_date":"2023-01-02"
+            }
+        },
+        {
+            "id":"225468",
+            "product_id":"566972",
+            "product_name":"XPhone Pro",
+            "product_price":"17500",
+            "price_info":"MXN",
+            "product_category":"smartphone",
+            "quantity":"1",
+            "client_info":{
+                "client_id" : "26739",
+                "client_email":"email_5@provider.com",
+                "payment_method":"paypal",
+                "purchased_date":"2023-01-02"
+            }
+        },
+        {
+            "id":"428458",
+            "product_id":"346873",
+            "product_name":"XPhone",
+            "product_price":"12500",
+            "price_info":"MXN",
+            "product_category":"smartphone",
+            "quantity":"1",
+            "client_info":{
+                "client_id" : "21499",
+                "client_email":"email_6@provider.com",
+                "payment_method":"credit card",
+                "purchased_date":"2023-01-02"
+            }
+        },
+        {
+            "id":"233596",
+            "product_id":"464592",
+            "product_name":"Book Pro",
+            "product_price":"17500",
+            "price_info":"MXN",
+            "product_category":"laptops & computers",
+            "quantity":"1",
+            "client_info":{
+                "client_id" : "23569",
+                "client_email":"email_7@provider.com",
+                "payment_method":"debit card",
+                "purchased_date":"2023-01-02"
+            }
+        }
+    ]
+
+}
